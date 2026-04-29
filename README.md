@@ -114,7 +114,7 @@ Claude Code is my daily driver. OpenClaw orchestrates my environment. I build ag
 Linux server administration, bash/zsh scripting, Docker compose, file systems, networking, cron, systemd — I live in the terminal. From provisioning a VPS to debugging a production issue, I don't need a GUI.
 
 ### Ship Mentality
-Every project on this list went from **idea → architecture → code → deployment**. I don't leave half-fished prototypes. I ship products that clients actually use.
+Every project on this list went from **idea → architecture → code → deployment**. I don't leave half-finished prototypes. I ship products that clients actually use.
 
 ---
 
